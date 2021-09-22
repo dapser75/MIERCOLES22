@@ -56,5 +56,5 @@
           with:
             app-name: 'DaniBcnAct'
             slot-name: 'production'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_08475015e6e44775a85bf82edd2a9572 }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_6e0c413bd8e84aeebd343c111af7a719 }}
             package: .
